@@ -1,0 +1,5 @@
+Block_ID,Area_Pixels,Area_Hectares,Perimeter,Centroid_Row,Centroid_Col,Eccentricity,Solidity,Boundary_Points
+1,2346.0,2.11,233.6,70.2,226.3,0.827,0.850,289
+2,3853.0,3.47,230.8,80.0,100.0,0.000,0.982,285
+3,2453.0,2.21,184.2,150.0,200.0,0.000,0.978,229
+4,1257.0,1.13,131.9,220.0,150.0,0.000,0.963,165
